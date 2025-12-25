@@ -1,0 +1,8 @@
+{
+  "name": "EnglishMaster - AI Study Companion",
+  "description": "Transform PDF study materials into interactive tests with AI-powered insights, vocabulary tools, and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

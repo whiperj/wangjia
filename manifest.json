@@ -1,0 +1,22 @@
+
+{
+  "name": "EnglishMaster - AI Study Companion",
+  "short_name": "EnglishMaster",
+  "description": "AI 驱动的英语学习助手",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101622",
+  "theme_color": "#2b6cee",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3593/3593963.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3593/3593963.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
